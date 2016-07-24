@@ -1,0 +1,1049 @@
+fileFormatVersion: 2
+guid: 933c6409b83be44a4ae328348d3913f8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: back
+    100004: group
+    100006: group1
+    100008: group10
+    100010: group11
+    100012: group12
+    100014: group13
+    100016: group14
+    100018: group15
+    100020: group16
+    100022: group17
+    100024: group18
+    100026: group19
+    100028: group2
+    100030: group20
+    100032: group21
+    100034: group22
+    100036: group23
+    100038: group3
+    100040: group4
+    100042: group5
+    100044: group7
+    100046: group9
+    100048: mesh2
+    100050: mesh3
+    100052: mesh4
+    100054: mesh6
+    100056: mesh7
+    100058: mesh8
+    100060: mesh9
+    100062: pasted__group12
+    100064: pasted__group12 1
+    100066: pasted__group12 2
+    100068: pasted__group12 3
+    100070: pasted__group9
+    100072: pasted__group9 1
+    100074: pasted__group9 2
+    100076: pasted__group9 3
+    100078: pasted__mesh6
+    100080: pasted__mesh7
+    100082: pasted__pasted__group9
+    100084: pasted__pasted__group9 1
+    100086: pasted__pasted__group9 2
+    100088: pasted__pasted__group9 3
+    100090: pasted__polySurface1
+    100092: pasted__polySurface10
+    100094: pasted__polySurface37
+    100096: pasted__polySurface37 1
+    100098: pasted__polySurface37 2
+    100100: pasted__polySurface37 3
+    100102: pasted__polySurface38
+    100104: pasted__polySurface38 1
+    100106: pasted__polySurface4
+    100108: pasted__polySurface4 1
+    100110: pasted__polySurface9
+    100112: pasted__pPlane1
+    100114: pasted__pSphere2
+    100116: pasted__pSphere3
+    100118: pasted__transform1
+    100120: pasted__transform17
+    100122: pasted__transform18
+    100124: pasted__transform2
+    100126: pasted__transform3
+    100128: pasted__transform32
+    100130: pasted__transform32 1
+    100132: pasted__transform4
+    100134: pasted__transform6
+    100136: pasted__transform7
+    100138: pasted__transform8
+    100140: polySurface1
+    100142: polySurface10
+    100144: polySurface13
+    100146: polySurface14
+    100148: polySurface15
+    100150: polySurface18
+    100152: polySurface20
+    100154: polySurface25
+    100156: polySurface26
+    100158: polySurface3
+    100160: polySurface34
+    100162: polySurface35
+    100164: polySurface37
+    100166: polySurface38
+    100168: polySurface39
+    100170: polySurface4
+    100172: polySurface4 1
+    100174: polySurface40
+    100176: polySurface41
+    100178: polySurface42
+    100180: polySurface45
+    100182: polySurface45 1
+    100184: polySurface46
+    100186: polySurface47
+    100188: polySurface49
+    100190: polySurface5
+    100192: polySurface50
+    100194: polySurface56
+    100196: polySurface58
+    100198: polySurface8
+    100200: polySurface9
+    100202: polySurface9 1
+    100204: pPlane1
+    100206: Prenda10:group1
+    100208: Prenda10:pasted__group9
+    100210: Prenda10:Prenda5:mesh6
+    100212: Prenda10:Prenda5:mesh7
+    100214: Prenda10:Prenda5:polySurface1
+    100216: Prenda10:Prenda5:polySurface10
+    100218: Prenda10:Prenda5:polySurface15
+    100220: Prenda10:Prenda5:polySurface20
+    100222: Prenda10:Prenda5:polySurface4
+    100224: Prenda10:Prenda5:polySurface4 1
+    100226: Prenda10:Prenda5:polySurface5
+    100228: Prenda10:Prenda5:polySurface9
+    100230: Prenda10:Prenda5:polySurface9 1
+    100232: Prenda10:Prenda5:transform1
+    100234: Prenda10:Prenda5:transform10
+    100236: Prenda10:Prenda5:transform14
+    100238: Prenda10:Prenda5:transform15
+    100240: Prenda10:Prenda5:transform16
+    100242: Prenda10:Prenda5:transform2
+    100244: Prenda10:Prenda5:transform3
+    100246: Prenda10:Prenda5:transform4
+    100248: Prenda10:Prenda5:transform6
+    100250: Prenda10:Prenda5:transform7
+    100252: Prenda10:Prenda5:transform8
+    100254: Prenda11:group1
+    100256: Prenda11:pasted__group9
+    100258: Prenda11:Prenda5:polySurface20
+    100260: Prenda13:mesh6
+    100262: Prenda13:mesh7
+    100264: Prenda13:polySurface1
+    100266: Prenda13:polySurface10
+    100268: Prenda13:polySurface15
+    100270: Prenda13:polySurface20
+    100272: Prenda13:polySurface4
+    100274: Prenda13:polySurface4 1
+    100276: Prenda13:polySurface5
+    100278: Prenda13:polySurface9
+    100280: Prenda13:polySurface9 1
+    100282: Prenda13:transform1
+    100284: Prenda13:transform10
+    100286: Prenda13:transform14
+    100288: Prenda13:transform15
+    100290: Prenda13:transform16
+    100292: Prenda13:transform2
+    100294: Prenda13:transform3
+    100296: Prenda13:transform4
+    100298: Prenda13:transform6
+    100300: Prenda13:transform7
+    100302: Prenda13:transform8
+    100304: Prenda15:polySurface20
+    100306: Prenda15:polySurface20 1
+    100308: Prenda15:transform1
+    100310: Prenda15:transform2
+    100312: Prenda3:mesh6
+    100314: Prenda3:polySurface13
+    100316: Prenda3:polySurface25
+    100318: Prenda3:polySurface3
+    100320: Prenda3:Prenda3:group
+    100322: Prenda3:Prenda3:group1
+    100324: Prenda3:Prenda3:pasted__mesh6
+    100326: Prenda3:Prenda3:pasted__mesh7
+    100328: Prenda3:Prenda3:pasted__polySurface1
+    100330: Prenda3:Prenda3:pasted__polySurface10
+    100332: Prenda3:Prenda3:pasted__polySurface15
+    100334: Prenda3:Prenda3:pasted__polySurface20
+    100336: Prenda3:Prenda3:pasted__polySurface4
+    100338: Prenda3:Prenda3:pasted__polySurface4 1
+    100340: Prenda3:Prenda3:pasted__polySurface5
+    100342: Prenda3:Prenda3:pasted__polySurface9
+    100344: Prenda3:Prenda3:pasted__polySurface9 1
+    100346: Prenda3:Prenda3:pasted__transform1
+    100348: Prenda3:Prenda3:pasted__transform10
+    100350: Prenda3:Prenda3:pasted__transform14
+    100352: Prenda3:Prenda3:pasted__transform15
+    100354: Prenda3:Prenda3:pasted__transform16
+    100356: Prenda3:Prenda3:pasted__transform2
+    100358: Prenda3:Prenda3:pasted__transform3
+    100360: Prenda3:Prenda3:pasted__transform4
+    100362: Prenda3:Prenda3:pasted__transform6
+    100364: Prenda3:Prenda3:pasted__transform7
+    100366: Prenda3:Prenda3:pasted__transform8
+    100368: Prenda3:Prenda3:polySurface32
+    100370: Prenda3:Prenda3:Prenda:mesh6
+    100372: Prenda3:Prenda3:Prenda:mesh7
+    100374: Prenda3:Prenda3:Prenda:polySurface1
+    100376: Prenda3:Prenda3:Prenda:polySurface10
+    100378: Prenda3:Prenda3:Prenda:polySurface15
+    100380: Prenda3:Prenda3:Prenda:polySurface20
+    100382: Prenda3:Prenda3:Prenda:polySurface4
+    100384: Prenda3:Prenda3:Prenda:polySurface4 1
+    100386: Prenda3:Prenda3:Prenda:polySurface5
+    100388: Prenda3:Prenda3:Prenda:polySurface9
+    100390: Prenda3:Prenda3:Prenda:polySurface9 1
+    100392: Prenda3:Prenda3:Prenda:transform1
+    100394: Prenda3:Prenda3:Prenda:transform10
+    100396: Prenda3:Prenda3:Prenda:transform14
+    100398: Prenda3:Prenda3:Prenda:transform15
+    100400: Prenda3:Prenda3:Prenda:transform16
+    100402: Prenda3:Prenda3:Prenda:transform2
+    100404: Prenda3:Prenda3:Prenda:transform3
+    100406: Prenda3:Prenda3:Prenda:transform4
+    100408: Prenda3:Prenda3:Prenda:transform6
+    100410: Prenda3:Prenda3:Prenda:transform7
+    100412: Prenda3:Prenda3:Prenda:transform8
+    100414: Prenda4:group
+    100416: Prenda4:group1
+    100418: Prenda4:pasted__group9
+    100420: Prenda4:pasted__group9 1
+    100422: Prenda4:polySurface20
+    100424: Prenda4:Prenda4:mesh6
+    100426: Prenda4:Prenda4:mesh7
+    100428: Prenda4:Prenda4:polySurface1
+    100430: Prenda4:Prenda4:polySurface10
+    100432: Prenda4:Prenda4:polySurface15
+    100434: Prenda4:Prenda4:polySurface20
+    100436: Prenda4:Prenda4:polySurface4
+    100438: Prenda4:Prenda4:polySurface4 1
+    100440: Prenda4:Prenda4:polySurface5
+    100442: Prenda4:Prenda4:polySurface9
+    100444: Prenda4:Prenda4:polySurface9 1
+    100446: Prenda4:Prenda4:transform1
+    100448: Prenda4:Prenda4:transform10
+    100450: Prenda4:Prenda4:transform14
+    100452: Prenda4:Prenda4:transform15
+    100454: Prenda4:Prenda4:transform16
+    100456: Prenda4:Prenda4:transform2
+    100458: Prenda4:Prenda4:transform3
+    100460: Prenda4:Prenda4:transform4
+    100462: Prenda4:Prenda4:transform6
+    100464: Prenda4:Prenda4:transform7
+    100466: Prenda4:Prenda4:transform8
+    100468: Prenda4:Prenda5:mesh6
+    100470: Prenda4:Prenda5:mesh7
+    100472: Prenda4:Prenda5:polySurface1
+    100474: Prenda4:Prenda5:polySurface10
+    100476: Prenda4:Prenda5:polySurface15
+    100478: Prenda4:Prenda5:polySurface20
+    100480: Prenda4:Prenda5:polySurface4
+    100482: Prenda4:Prenda5:polySurface4 1
+    100484: Prenda4:Prenda5:polySurface5
+    100486: Prenda4:Prenda5:polySurface9
+    100488: Prenda4:Prenda5:polySurface9 1
+    100490: Prenda4:Prenda5:transform1
+    100492: Prenda4:Prenda5:transform10
+    100494: Prenda4:Prenda5:transform14
+    100496: Prenda4:Prenda5:transform15
+    100498: Prenda4:Prenda5:transform16
+    100500: Prenda4:Prenda5:transform2
+    100502: Prenda4:Prenda5:transform3
+    100504: Prenda4:Prenda5:transform4
+    100506: Prenda4:Prenda5:transform6
+    100508: Prenda4:Prenda5:transform7
+    100510: Prenda4:Prenda5:transform8
+    100512: Prenda5:mesh6
+    100514: Prenda5:mesh7
+    100516: Prenda5:polySurface1
+    100518: Prenda5:polySurface10
+    100520: Prenda5:polySurface15
+    100522: Prenda5:polySurface20
+    100524: Prenda5:polySurface4
+    100526: Prenda5:polySurface4 1
+    100528: Prenda5:polySurface5
+    100530: Prenda5:polySurface9
+    100532: Prenda5:polySurface9 1
+    100534: Prenda5:transform1
+    100536: Prenda5:transform10
+    100538: Prenda5:transform14
+    100540: Prenda5:transform15
+    100542: Prenda5:transform16
+    100544: Prenda5:transform2
+    100546: Prenda5:transform3
+    100548: Prenda5:transform4
+    100550: Prenda5:transform6
+    100552: Prenda5:transform7
+    100554: Prenda5:transform8
+    100556: Prenda6:mesh6
+    100558: Prenda6:mesh7
+    100560: Prenda6:polySurface1
+    100562: Prenda6:polySurface10
+    100564: Prenda6:polySurface15
+    100566: Prenda6:polySurface20
+    100568: Prenda6:polySurface4
+    100570: Prenda6:polySurface4 1
+    100572: Prenda6:polySurface5
+    100574: Prenda6:polySurface9
+    100576: Prenda6:polySurface9 1
+    100578: Prenda6:transform1
+    100580: Prenda6:transform10
+    100582: Prenda6:transform14
+    100584: Prenda6:transform15
+    100586: Prenda6:transform16
+    100588: Prenda6:transform2
+    100590: Prenda6:transform3
+    100592: Prenda6:transform4
+    100594: Prenda6:transform6
+    100596: Prenda6:transform7
+    100598: Prenda6:transform8
+    100600: Prenda7:polySurface20
+    100602: Prenda9:mesh6
+    100604: Prenda9:mesh7
+    100606: Prenda9:polySurface1
+    100608: Prenda9:polySurface10
+    100610: Prenda9:polySurface15
+    100612: Prenda9:polySurface20
+    100614: Prenda9:polySurface4
+    100616: Prenda9:polySurface4 1
+    100618: Prenda9:polySurface5
+    100620: Prenda9:polySurface9
+    100622: Prenda9:polySurface9 1
+    100624: Prenda9:transform1
+    100626: Prenda9:transform10
+    100628: Prenda9:transform14
+    100630: Prenda9:transform15
+    100632: Prenda9:transform16
+    100634: Prenda9:transform2
+    100636: Prenda9:transform3
+    100638: Prenda9:transform4
+    100640: Prenda9:transform6
+    100642: Prenda9:transform7
+    100644: Prenda9:transform8
+    100646: Prenda:back
+    100648: Prenda:group
+    100650: Prenda:left
+    100652: Prenda:left1
+    100654: Prenda:left2
+    100656: Prenda:mesh1
+    100658: Prenda:mesh2
+    100660: Prenda:mesh3
+    100662: Prenda:mesh4
+    100664: Prenda:mesh6
+    100666: Prenda:mesh7
+    100668: Prenda:mesh8
+    100670: Prenda:mesh9
+    100672: Prenda:pasted__mesh6
+    100674: Prenda:pasted__mesh7
+    100676: Prenda:pasted__polySurface1
+    100678: Prenda:pasted__polySurface10
+    100680: Prenda:pasted__polySurface4
+    100682: Prenda:pasted__polySurface4 1
+    100684: Prenda:pasted__polySurface9
+    100686: Prenda:pasted__transform1
+    100688: Prenda:pasted__transform2
+    100690: Prenda:pasted__transform3
+    100692: Prenda:pasted__transform4
+    100694: Prenda:pasted__transform6
+    100696: Prenda:pasted__transform7
+    100698: Prenda:pasted__transform8
+    100700: Prenda:polySurface12
+    100702: Prenda:polySurface13
+    100704: Prenda:polySurface14
+    100706: Prenda:polySurface16
+    100708: Prenda:polySurface17
+    100710: Prenda:polySurface17 1
+    100712: Prenda:polySurface18
+    100714: Prenda:polySurface2
+    100716: Prenda:polySurface2 1
+    100718: Prenda:polySurface21
+    100720: Prenda:polySurface23
+    100722: Prenda:polySurface24
+    100724: Prenda:polySurface25
+    100726: Prenda:polySurface27
+    100728: Prenda:polySurface3
+    100730: Prenda:polySurface30
+    100732: Prenda:polySurface31
+    100734: Prenda:polySurface36
+    100736: Prenda:polySurface5
+    100738: Prenda:polySurface6
+    100740: Prenda:polySurface8
+    100742: Prenda:transform1
+    100744: Prenda:transform10
+    100746: Prenda:transform11
+    100748: Prenda:transform12
+    100750: Prenda:transform13
+    100752: Prenda:transform17
+    100754: Prenda:transform18
+    100756: Prenda:transform19
+    100758: Prenda:transform2
+    100760: Prenda:transform20
+    100762: Prenda:transform21
+    100764: Prenda:transform22
+    100766: Prenda:transform23
+    100768: Prenda:transform24
+    100770: Prenda:transform25
+    100772: Prenda:transform26
+    100774: Prenda:transform27
+    100776: Prenda:transform28
+    100778: Prenda:transform29
+    100780: Prenda:transform30
+    100782: Prenda:transform31
+    100784: Prenda:transform5
+    100786: Prenda:transform9
+    100788: pSphere1
+    100790: pSphere2
+    100792: pSphere3
+    100794: pTorus1
+    100796: transform1
+    100798: transform10
+    100800: transform11
+    100802: transform12
+    100804: transform13
+    100806: transform14
+    100808: transform15
+    100810: transform16
+    100812: transform17
+    100814: transform18
+    100816: transform19
+    100818: transform2
+    100820: transform20
+    100822: transform21
+    100824: transform22
+    100826: transform23
+    100828: transform24
+    100830: transform25
+    100832: transform26
+    100834: transform27
+    100836: transform28
+    100838: transform3
+    100840: transform4
+    100842: transform5
+    100844: transform6
+    100846: transform7
+    100848: transform8
+    100850: transform9
+    100852: polySurface48
+    100854: polySurface50 1
+    100856: polySurface51
+    100858: polySurface52
+    100860: polySurface53
+    100862: polySurface54
+    100864: polySurface54 1
+    100866: polySurface55
+    100868: group24
+    100870: group25
+    100872: group26
+    100874: pasted__group12 4
+    100876: pasted__group19
+    100878: pasted__pasted__group9 4
+    100880: pasted__polySurface26
+    100882: pasted__polySurface45
+    100884: pasted__polySurface54
+    100886: pasted__polySurface55
+    100888: pasted__transform19
+    100890: polySurface55 1
+    100892: Prenda15:group
+    100894: Prenda15:pasted__polySurface37
+    100896: Prenda16:group1
+    100898: Prenda16:pasted__group9
+    100900: Prenda16:Prenda5:polySurface20
+    400000: //RootNode
+    400002: back
+    400004: group
+    400006: group1
+    400008: group10
+    400010: group11
+    400012: group12
+    400014: group13
+    400016: group14
+    400018: group15
+    400020: group16
+    400022: group17
+    400024: group18
+    400026: group19
+    400028: group2
+    400030: group20
+    400032: group21
+    400034: group22
+    400036: group23
+    400038: group3
+    400040: group4
+    400042: group5
+    400044: group7
+    400046: group9
+    400048: mesh2
+    400050: mesh3
+    400052: mesh4
+    400054: mesh6
+    400056: mesh7
+    400058: mesh8
+    400060: mesh9
+    400062: pasted__group12
+    400064: pasted__group12 1
+    400066: pasted__group12 2
+    400068: pasted__group12 3
+    400070: pasted__group9
+    400072: pasted__group9 1
+    400074: pasted__group9 2
+    400076: pasted__group9 3
+    400078: pasted__mesh6
+    400080: pasted__mesh7
+    400082: pasted__pasted__group9
+    400084: pasted__pasted__group9 1
+    400086: pasted__pasted__group9 2
+    400088: pasted__pasted__group9 3
+    400090: pasted__polySurface1
+    400092: pasted__polySurface10
+    400094: pasted__polySurface37
+    400096: pasted__polySurface37 1
+    400098: pasted__polySurface37 2
+    400100: pasted__polySurface37 3
+    400102: pasted__polySurface38
+    400104: pasted__polySurface38 1
+    400106: pasted__polySurface4
+    400108: pasted__polySurface4 1
+    400110: pasted__polySurface9
+    400112: pasted__pPlane1
+    400114: pasted__pSphere2
+    400116: pasted__pSphere3
+    400118: pasted__transform1
+    400120: pasted__transform17
+    400122: pasted__transform18
+    400124: pasted__transform2
+    400126: pasted__transform3
+    400128: pasted__transform32
+    400130: pasted__transform32 1
+    400132: pasted__transform4
+    400134: pasted__transform6
+    400136: pasted__transform7
+    400138: pasted__transform8
+    400140: polySurface1
+    400142: polySurface10
+    400144: polySurface13
+    400146: polySurface14
+    400148: polySurface15
+    400150: polySurface18
+    400152: polySurface20
+    400154: polySurface25
+    400156: polySurface26
+    400158: polySurface3
+    400160: polySurface34
+    400162: polySurface35
+    400164: polySurface37
+    400166: polySurface38
+    400168: polySurface39
+    400170: polySurface4
+    400172: polySurface4 1
+    400174: polySurface40
+    400176: polySurface41
+    400178: polySurface42
+    400180: polySurface45
+    400182: polySurface45 1
+    400184: polySurface46
+    400186: polySurface47
+    400188: polySurface49
+    400190: polySurface5
+    400192: polySurface50
+    400194: polySurface56
+    400196: polySurface58
+    400198: polySurface8
+    400200: polySurface9
+    400202: polySurface9 1
+    400204: pPlane1
+    400206: Prenda10:group1
+    400208: Prenda10:pasted__group9
+    400210: Prenda10:Prenda5:mesh6
+    400212: Prenda10:Prenda5:mesh7
+    400214: Prenda10:Prenda5:polySurface1
+    400216: Prenda10:Prenda5:polySurface10
+    400218: Prenda10:Prenda5:polySurface15
+    400220: Prenda10:Prenda5:polySurface20
+    400222: Prenda10:Prenda5:polySurface4
+    400224: Prenda10:Prenda5:polySurface4 1
+    400226: Prenda10:Prenda5:polySurface5
+    400228: Prenda10:Prenda5:polySurface9
+    400230: Prenda10:Prenda5:polySurface9 1
+    400232: Prenda10:Prenda5:transform1
+    400234: Prenda10:Prenda5:transform10
+    400236: Prenda10:Prenda5:transform14
+    400238: Prenda10:Prenda5:transform15
+    400240: Prenda10:Prenda5:transform16
+    400242: Prenda10:Prenda5:transform2
+    400244: Prenda10:Prenda5:transform3
+    400246: Prenda10:Prenda5:transform4
+    400248: Prenda10:Prenda5:transform6
+    400250: Prenda10:Prenda5:transform7
+    400252: Prenda10:Prenda5:transform8
+    400254: Prenda11:group1
+    400256: Prenda11:pasted__group9
+    400258: Prenda11:Prenda5:polySurface20
+    400260: Prenda13:mesh6
+    400262: Prenda13:mesh7
+    400264: Prenda13:polySurface1
+    400266: Prenda13:polySurface10
+    400268: Prenda13:polySurface15
+    400270: Prenda13:polySurface20
+    400272: Prenda13:polySurface4
+    400274: Prenda13:polySurface4 1
+    400276: Prenda13:polySurface5
+    400278: Prenda13:polySurface9
+    400280: Prenda13:polySurface9 1
+    400282: Prenda13:transform1
+    400284: Prenda13:transform10
+    400286: Prenda13:transform14
+    400288: Prenda13:transform15
+    400290: Prenda13:transform16
+    400292: Prenda13:transform2
+    400294: Prenda13:transform3
+    400296: Prenda13:transform4
+    400298: Prenda13:transform6
+    400300: Prenda13:transform7
+    400302: Prenda13:transform8
+    400304: Prenda15:polySurface20
+    400306: Prenda15:polySurface20 1
+    400308: Prenda15:transform1
+    400310: Prenda15:transform2
+    400312: Prenda3:mesh6
+    400314: Prenda3:polySurface13
+    400316: Prenda3:polySurface25
+    400318: Prenda3:polySurface3
+    400320: Prenda3:Prenda3:group
+    400322: Prenda3:Prenda3:group1
+    400324: Prenda3:Prenda3:pasted__mesh6
+    400326: Prenda3:Prenda3:pasted__mesh7
+    400328: Prenda3:Prenda3:pasted__polySurface1
+    400330: Prenda3:Prenda3:pasted__polySurface10
+    400332: Prenda3:Prenda3:pasted__polySurface15
+    400334: Prenda3:Prenda3:pasted__polySurface20
+    400336: Prenda3:Prenda3:pasted__polySurface4
+    400338: Prenda3:Prenda3:pasted__polySurface4 1
+    400340: Prenda3:Prenda3:pasted__polySurface5
+    400342: Prenda3:Prenda3:pasted__polySurface9
+    400344: Prenda3:Prenda3:pasted__polySurface9 1
+    400346: Prenda3:Prenda3:pasted__transform1
+    400348: Prenda3:Prenda3:pasted__transform10
+    400350: Prenda3:Prenda3:pasted__transform14
+    400352: Prenda3:Prenda3:pasted__transform15
+    400354: Prenda3:Prenda3:pasted__transform16
+    400356: Prenda3:Prenda3:pasted__transform2
+    400358: Prenda3:Prenda3:pasted__transform3
+    400360: Prenda3:Prenda3:pasted__transform4
+    400362: Prenda3:Prenda3:pasted__transform6
+    400364: Prenda3:Prenda3:pasted__transform7
+    400366: Prenda3:Prenda3:pasted__transform8
+    400368: Prenda3:Prenda3:polySurface32
+    400370: Prenda3:Prenda3:Prenda:mesh6
+    400372: Prenda3:Prenda3:Prenda:mesh7
+    400374: Prenda3:Prenda3:Prenda:polySurface1
+    400376: Prenda3:Prenda3:Prenda:polySurface10
+    400378: Prenda3:Prenda3:Prenda:polySurface15
+    400380: Prenda3:Prenda3:Prenda:polySurface20
+    400382: Prenda3:Prenda3:Prenda:polySurface4
+    400384: Prenda3:Prenda3:Prenda:polySurface4 1
+    400386: Prenda3:Prenda3:Prenda:polySurface5
+    400388: Prenda3:Prenda3:Prenda:polySurface9
+    400390: Prenda3:Prenda3:Prenda:polySurface9 1
+    400392: Prenda3:Prenda3:Prenda:transform1
+    400394: Prenda3:Prenda3:Prenda:transform10
+    400396: Prenda3:Prenda3:Prenda:transform14
+    400398: Prenda3:Prenda3:Prenda:transform15
+    400400: Prenda3:Prenda3:Prenda:transform16
+    400402: Prenda3:Prenda3:Prenda:transform2
+    400404: Prenda3:Prenda3:Prenda:transform3
+    400406: Prenda3:Prenda3:Prenda:transform4
+    400408: Prenda3:Prenda3:Prenda:transform6
+    400410: Prenda3:Prenda3:Prenda:transform7
+    400412: Prenda3:Prenda3:Prenda:transform8
+    400414: Prenda4:group
+    400416: Prenda4:group1
+    400418: Prenda4:pasted__group9
+    400420: Prenda4:pasted__group9 1
+    400422: Prenda4:polySurface20
+    400424: Prenda4:Prenda4:mesh6
+    400426: Prenda4:Prenda4:mesh7
+    400428: Prenda4:Prenda4:polySurface1
+    400430: Prenda4:Prenda4:polySurface10
+    400432: Prenda4:Prenda4:polySurface15
+    400434: Prenda4:Prenda4:polySurface20
+    400436: Prenda4:Prenda4:polySurface4
+    400438: Prenda4:Prenda4:polySurface4 1
+    400440: Prenda4:Prenda4:polySurface5
+    400442: Prenda4:Prenda4:polySurface9
+    400444: Prenda4:Prenda4:polySurface9 1
+    400446: Prenda4:Prenda4:transform1
+    400448: Prenda4:Prenda4:transform10
+    400450: Prenda4:Prenda4:transform14
+    400452: Prenda4:Prenda4:transform15
+    400454: Prenda4:Prenda4:transform16
+    400456: Prenda4:Prenda4:transform2
+    400458: Prenda4:Prenda4:transform3
+    400460: Prenda4:Prenda4:transform4
+    400462: Prenda4:Prenda4:transform6
+    400464: Prenda4:Prenda4:transform7
+    400466: Prenda4:Prenda4:transform8
+    400468: Prenda4:Prenda5:mesh6
+    400470: Prenda4:Prenda5:mesh7
+    400472: Prenda4:Prenda5:polySurface1
+    400474: Prenda4:Prenda5:polySurface10
+    400476: Prenda4:Prenda5:polySurface15
+    400478: Prenda4:Prenda5:polySurface20
+    400480: Prenda4:Prenda5:polySurface4
+    400482: Prenda4:Prenda5:polySurface4 1
+    400484: Prenda4:Prenda5:polySurface5
+    400486: Prenda4:Prenda5:polySurface9
+    400488: Prenda4:Prenda5:polySurface9 1
+    400490: Prenda4:Prenda5:transform1
+    400492: Prenda4:Prenda5:transform10
+    400494: Prenda4:Prenda5:transform14
+    400496: Prenda4:Prenda5:transform15
+    400498: Prenda4:Prenda5:transform16
+    400500: Prenda4:Prenda5:transform2
+    400502: Prenda4:Prenda5:transform3
+    400504: Prenda4:Prenda5:transform4
+    400506: Prenda4:Prenda5:transform6
+    400508: Prenda4:Prenda5:transform7
+    400510: Prenda4:Prenda5:transform8
+    400512: Prenda5:mesh6
+    400514: Prenda5:mesh7
+    400516: Prenda5:polySurface1
+    400518: Prenda5:polySurface10
+    400520: Prenda5:polySurface15
+    400522: Prenda5:polySurface20
+    400524: Prenda5:polySurface4
+    400526: Prenda5:polySurface4 1
+    400528: Prenda5:polySurface5
+    400530: Prenda5:polySurface9
+    400532: Prenda5:polySurface9 1
+    400534: Prenda5:transform1
+    400536: Prenda5:transform10
+    400538: Prenda5:transform14
+    400540: Prenda5:transform15
+    400542: Prenda5:transform16
+    400544: Prenda5:transform2
+    400546: Prenda5:transform3
+    400548: Prenda5:transform4
+    400550: Prenda5:transform6
+    400552: Prenda5:transform7
+    400554: Prenda5:transform8
+    400556: Prenda6:mesh6
+    400558: Prenda6:mesh7
+    400560: Prenda6:polySurface1
+    400562: Prenda6:polySurface10
+    400564: Prenda6:polySurface15
+    400566: Prenda6:polySurface20
+    400568: Prenda6:polySurface4
+    400570: Prenda6:polySurface4 1
+    400572: Prenda6:polySurface5
+    400574: Prenda6:polySurface9
+    400576: Prenda6:polySurface9 1
+    400578: Prenda6:transform1
+    400580: Prenda6:transform10
+    400582: Prenda6:transform14
+    400584: Prenda6:transform15
+    400586: Prenda6:transform16
+    400588: Prenda6:transform2
+    400590: Prenda6:transform3
+    400592: Prenda6:transform4
+    400594: Prenda6:transform6
+    400596: Prenda6:transform7
+    400598: Prenda6:transform8
+    400600: Prenda7:polySurface20
+    400602: Prenda9:mesh6
+    400604: Prenda9:mesh7
+    400606: Prenda9:polySurface1
+    400608: Prenda9:polySurface10
+    400610: Prenda9:polySurface15
+    400612: Prenda9:polySurface20
+    400614: Prenda9:polySurface4
+    400616: Prenda9:polySurface4 1
+    400618: Prenda9:polySurface5
+    400620: Prenda9:polySurface9
+    400622: Prenda9:polySurface9 1
+    400624: Prenda9:transform1
+    400626: Prenda9:transform10
+    400628: Prenda9:transform14
+    400630: Prenda9:transform15
+    400632: Prenda9:transform16
+    400634: Prenda9:transform2
+    400636: Prenda9:transform3
+    400638: Prenda9:transform4
+    400640: Prenda9:transform6
+    400642: Prenda9:transform7
+    400644: Prenda9:transform8
+    400646: Prenda:back
+    400648: Prenda:group
+    400650: Prenda:left
+    400652: Prenda:left1
+    400654: Prenda:left2
+    400656: Prenda:mesh1
+    400658: Prenda:mesh2
+    400660: Prenda:mesh3
+    400662: Prenda:mesh4
+    400664: Prenda:mesh6
+    400666: Prenda:mesh7
+    400668: Prenda:mesh8
+    400670: Prenda:mesh9
+    400672: Prenda:pasted__mesh6
+    400674: Prenda:pasted__mesh7
+    400676: Prenda:pasted__polySurface1
+    400678: Prenda:pasted__polySurface10
+    400680: Prenda:pasted__polySurface4
+    400682: Prenda:pasted__polySurface4 1
+    400684: Prenda:pasted__polySurface9
+    400686: Prenda:pasted__transform1
+    400688: Prenda:pasted__transform2
+    400690: Prenda:pasted__transform3
+    400692: Prenda:pasted__transform4
+    400694: Prenda:pasted__transform6
+    400696: Prenda:pasted__transform7
+    400698: Prenda:pasted__transform8
+    400700: Prenda:polySurface12
+    400702: Prenda:polySurface13
+    400704: Prenda:polySurface14
+    400706: Prenda:polySurface16
+    400708: Prenda:polySurface17
+    400710: Prenda:polySurface17 1
+    400712: Prenda:polySurface18
+    400714: Prenda:polySurface2
+    400716: Prenda:polySurface2 1
+    400718: Prenda:polySurface21
+    400720: Prenda:polySurface23
+    400722: Prenda:polySurface24
+    400724: Prenda:polySurface25
+    400726: Prenda:polySurface27
+    400728: Prenda:polySurface3
+    400730: Prenda:polySurface30
+    400732: Prenda:polySurface31
+    400734: Prenda:polySurface36
+    400736: Prenda:polySurface5
+    400738: Prenda:polySurface6
+    400740: Prenda:polySurface8
+    400742: Prenda:transform1
+    400744: Prenda:transform10
+    400746: Prenda:transform11
+    400748: Prenda:transform12
+    400750: Prenda:transform13
+    400752: Prenda:transform17
+    400754: Prenda:transform18
+    400756: Prenda:transform19
+    400758: Prenda:transform2
+    400760: Prenda:transform20
+    400762: Prenda:transform21
+    400764: Prenda:transform22
+    400766: Prenda:transform23
+    400768: Prenda:transform24
+    400770: Prenda:transform25
+    400772: Prenda:transform26
+    400774: Prenda:transform27
+    400776: Prenda:transform28
+    400778: Prenda:transform29
+    400780: Prenda:transform30
+    400782: Prenda:transform31
+    400784: Prenda:transform5
+    400786: Prenda:transform9
+    400788: pSphere1
+    400790: pSphere2
+    400792: pSphere3
+    400794: pTorus1
+    400796: transform1
+    400798: transform10
+    400800: transform11
+    400802: transform12
+    400804: transform13
+    400806: transform14
+    400808: transform15
+    400810: transform16
+    400812: transform17
+    400814: transform18
+    400816: transform19
+    400818: transform2
+    400820: transform20
+    400822: transform21
+    400824: transform22
+    400826: transform23
+    400828: transform24
+    400830: transform25
+    400832: transform26
+    400834: transform27
+    400836: transform28
+    400838: transform3
+    400840: transform4
+    400842: transform5
+    400844: transform6
+    400846: transform7
+    400848: transform8
+    400850: transform9
+    400852: polySurface48
+    400854: polySurface50 1
+    400856: polySurface51
+    400858: polySurface52
+    400860: polySurface53
+    400862: polySurface54
+    400864: polySurface54 1
+    400866: polySurface55
+    400868: group24
+    400870: group25
+    400872: group26
+    400874: pasted__group12 4
+    400876: pasted__group19
+    400878: pasted__pasted__group9 4
+    400880: pasted__polySurface26
+    400882: pasted__polySurface45
+    400884: pasted__polySurface54
+    400886: pasted__polySurface55
+    400888: pasted__transform19
+    400890: polySurface55 1
+    400892: Prenda15:group
+    400894: Prenda15:pasted__polySurface37
+    400896: Prenda16:group1
+    400898: Prenda16:pasted__group9
+    400900: Prenda16:Prenda5:polySurface20
+    2300000: mesh2
+    2300002: mesh4
+    2300004: mesh8
+    2300006: mesh9
+    2300008: pasted__polySurface38
+    2300010: pasted__polySurface38 1
+    2300012: polySurface26
+    2300014: polySurface34
+    2300016: polySurface35
+    2300018: polySurface38
+    2300020: polySurface39
+    2300022: polySurface40
+    2300024: polySurface41
+    2300026: polySurface42
+    2300028: polySurface45
+    2300030: Prenda11:Prenda5:polySurface20
+    2300032: Prenda3:Prenda3:polySurface32
+    2300034: Prenda4:polySurface20
+    2300036: Prenda7:polySurface20
+    2300038: Prenda:mesh1
+    2300040: Prenda:mesh2
+    2300042: Prenda:mesh4
+    2300044: Prenda:mesh8
+    2300046: Prenda:mesh9
+    2300048: Prenda:polySurface36
+    2300050: polySurface50
+    2300052: pasted__polySurface26
+    2300054: polySurface55
+    2300056: Prenda16:Prenda5:polySurface20
+    3300000: mesh2
+    3300002: mesh4
+    3300004: mesh8
+    3300006: mesh9
+    3300008: pasted__polySurface38
+    3300010: pasted__polySurface38 1
+    3300012: polySurface26
+    3300014: polySurface34
+    3300016: polySurface35
+    3300018: polySurface38
+    3300020: polySurface39
+    3300022: polySurface40
+    3300024: polySurface41
+    3300026: polySurface42
+    3300028: polySurface45
+    3300030: Prenda11:Prenda5:polySurface20
+    3300032: Prenda3:Prenda3:polySurface32
+    3300034: Prenda4:polySurface20
+    3300036: Prenda7:polySurface20
+    3300038: Prenda:mesh1
+    3300040: Prenda:mesh2
+    3300042: Prenda:mesh4
+    3300044: Prenda:mesh8
+    3300046: Prenda:mesh9
+    3300048: Prenda:polySurface36
+    3300050: polySurface50
+    3300052: pasted__polySurface26
+    3300054: polySurface55
+    3300056: Prenda16:Prenda5:polySurface20
+    4300000: mesh2
+    4300002: mesh4
+    4300004: mesh8
+    4300006: mesh9
+    4300008: polySurface26
+    4300010: polySurface34
+    4300012: Prenda:mesh1
+    4300014: Prenda:mesh2
+    4300016: Prenda:mesh4
+    4300018: Prenda:mesh8
+    4300020: Prenda:mesh9
+    4300022: Prenda:polySurface36
+    4300024: polySurface35
+    4300026: polySurface38
+    4300028: polySurface39
+    4300030: polySurface40
+    4300032: pasted__polySurface38
+    4300034: polySurface41
+    4300036: polySurface42
+    4300038: Prenda3:Prenda3:polySurface32
+    4300040: Prenda4:polySurface20
+    4300042: Prenda7:polySurface20
+    4300044: pasted__polySurface38
+    4300046: Prenda11:Prenda5:polySurface20
+    4300048: polySurface45
+    4300050: polySurface50
+    4300052: polySurface55
+    4300054: pasted__polySurface26
+    4300056: Prenda16:Prenda5:polySurface20
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

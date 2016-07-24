@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d748d47402bf84f87bdc38d62fb46635
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Camisa: {instanceID: 0}
+  - Camiseta: {instanceID: 0}
+  - Jersey: {instanceID: 0}
+  - Sudadera: {instanceID: 0}
+  - Chaqueta: {instanceID: 0}
+  - Pantalon: {instanceID: 0}
+  - PantalonC: {instanceID: 0}
+  - Vestido: {instanceID: 0}
+  - BtnEliminar: {instanceID: 0}
+  - BotonGuarda: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
